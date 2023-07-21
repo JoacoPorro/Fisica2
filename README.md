@@ -1,5 +1,5 @@
 # Material Fisica II FIUBA
-###### Drives nuevos -> jporro@fi.uba.ar
+###### Drives nuevos --> jporro@fi.uba.ar
 
 ### Drives:
 * https://drive.google.com/drive/folders/1I82xzIZRZZeQ2xRf4YmpUH5tKLo--p4h
