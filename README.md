@@ -9,7 +9,7 @@
 * https://drive.google.com/drive/folders/1xfoCa4ycgFSB3XyGkAdqojg_oezU_yz1
 
 ### Resumenes:
-* [Electrostatica](Resumen Electrostatica.pdf)
+* [Electrostatica](/ResumenElectrostatica.pdf)
 
 
 ### Deja ⭐ Arriba
