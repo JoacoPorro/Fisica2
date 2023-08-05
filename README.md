@@ -8,6 +8,9 @@
 * https://drive.google.com/drive/folders/0BxuqHS6B2O0oM2d3OE11bWVXYjg?resourcekey=0-bb1_hGXSMRZznRR6Iak0Xw
 * https://drive.google.com/drive/folders/1xfoCa4ycgFSB3XyGkAdqojg_oezU_yz1
 
+### Videos
+* [Parciales y Finales](https://www.youtube.com/playlist?list=PLovUfzQicsXvaxR3ye3TGAxiXSGHksdHv)
+
 ### Resumenes:
 * [Electrostatica](/Resumen-Electrostatica.pdf)
 
